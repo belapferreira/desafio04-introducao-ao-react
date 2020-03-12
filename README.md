@@ -21,7 +21,7 @@
 -  [Webpack Dev Server](https://github.com/webpack/webpack-dev-server)
 
 ### :memo: License
-Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/lukemorales/gobarber-api/blob/master/LICENSE) para mais informações.
+Esse projeto está sob MIT license. Veja [LICENSE](https://github.com/belapferreira/desafio04-introducao-ao-react/blob/master/LICENSE) para mais informações.
 
 ---
 
